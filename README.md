@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hiroshiboy, 
+### 👋 Hi, I’m Neil Sano, 
 - 👀 I’m interested in computers, front-end and back-end development
 - I also enjoy video games like the Monster Hunter Series developed by Capcom, Pokemon developed by GameFreak
 and many more.
